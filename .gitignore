@@ -48,4 +48,4 @@ Thumbs.db
 .vscode/
 
 # Logs
-*.log
+*.log.terraform/
